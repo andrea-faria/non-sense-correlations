@@ -1,5 +1,4 @@
-# non-sense-correlations
-Non-Sense Correlations
+# Non-Sense Correlations
 
 Correlation is not causation
 
